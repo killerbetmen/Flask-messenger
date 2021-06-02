@@ -14,7 +14,7 @@ PyQt5-stubs==5.14.2.2
 pywin32==227
 requests==2.23.0
 SpeechRecognition==3.8.1
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 Flask==1.1.1
 PyAudio==0.2.11
